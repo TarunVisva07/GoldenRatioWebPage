@@ -113,5 +113,5 @@ function discat4(){
 	{
 		document.getElementById("cat4").style="display : none;";
 	}
-	count5++;
+	count5++ ;
 }
