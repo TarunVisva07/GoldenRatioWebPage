@@ -1,5 +1,5 @@
 # GoldenRatioWebPage
-Page Deployment Link: https://barathkumarbk-15.github.io/GoldenRatioWebPage/
+Page Deployment Link: https://tarunvisva07.github.io/GoldenRatioWebPage/
 ***
 An **Interactive** and **Informative** webpage on Golden Ratio created using `HTML5`, `CSS3`, and `JavaScript`.
 
@@ -16,10 +16,10 @@ The code can be downloaded as a compressed `zip` file from the github web interf
 
 The repository can also be cloned using:
 ```
-git clone https://github.com/BarathKumarBK-15/GoldenRatioWebPage.git
+git clone https://github.com/TarunVisva07/GoldenRatioWebPage.git
 ```
 
-The game can be deployed locally after extraction by opening the `index.html` file in any compatible browser.
+The page can be deployed locally after extraction by opening the `index.html` file in any compatible browser.
 
 ## Project Contents 
 -	**HTML** files - 3
